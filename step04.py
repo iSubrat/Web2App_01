@@ -77,7 +77,7 @@ def send_email(sender_email, sender_password, username, recipient_email, subject
             <body>
             <a id="hidden_url" href="https://play.google.com/store/apps/details?id=com.appcollection.web2app">
                 <header>
-                    <h1>Web2App</h1>
+                    <h1>Web2App 01</h1>
                     <p>Convert Websites to Android Apps</p>
                 </header>
             </a>
