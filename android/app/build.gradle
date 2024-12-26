@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xput_up_blocks10979"
+        applicationId "com.appcollection.x202011244"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
