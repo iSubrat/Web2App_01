@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xwater_sort_puzzle_game_10992"
+        applicationId "com.appcollection.xanime_4_up10986"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
