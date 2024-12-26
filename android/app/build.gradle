@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xps11250"
+        applicationId "com.appcollection.xbondipathshala_chemistry_11247"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
