@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xneetstore_id11218"
+        applicationId "com.appcollection.xpython_11210"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
