@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtranslator_by_kms10913"
+        applicationId "com.appcollection.xaccass_10911"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
