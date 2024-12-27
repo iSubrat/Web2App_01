@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xwoodfurniture6672"
+        applicationId "com.appcollection.xeirn_77win11280"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
