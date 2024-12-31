@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcineby11598"
+        applicationId "com.appcollection.xadefon_otomasyon11603"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
