@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtahir_qadri_abaya11637"
+        applicationId "com.appcollection.xnime_tv11641"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
