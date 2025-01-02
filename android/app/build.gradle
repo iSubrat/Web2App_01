@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xedubox_11698"
+        applicationId "com.appcollection.xdubois_et_fils11700"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
