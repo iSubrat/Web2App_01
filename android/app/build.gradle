@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcg_vision_tv11816"
+        applicationId "com.appcollection.xpg_tick_tac_toe_11819"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
