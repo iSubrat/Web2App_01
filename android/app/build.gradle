@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xindia_fashion_store_11862"
+        applicationId "com.appcollection.xkaizixyz_private11864"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
