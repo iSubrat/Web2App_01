@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpesantren_al_khoirot11930"
+        applicationId "com.appcollection.xaflix11933"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
