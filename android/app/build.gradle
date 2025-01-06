@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcorn_hub11915"
+        applicationId "com.appcollection.xfaisal_malik_portal_pro_11916"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
