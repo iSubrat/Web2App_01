@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xak_photography12009"
+        applicationId "com.appcollection.xweb_h_bergeur_12012"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
