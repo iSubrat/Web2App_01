@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xanime_tube12269"
+        applicationId "com.appcollection.xaniwave12271"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
