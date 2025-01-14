@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xadx_marketing_12360"
+        applicationId "com.appcollection.xsunehra_soch_12371"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
