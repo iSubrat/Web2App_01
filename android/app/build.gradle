@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xuniversity_eastern_pangasinan_lms12458"
+        applicationId "com.appcollection.xcube_solveer12460"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
