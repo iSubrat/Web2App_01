@@ -26,7 +26,7 @@
 
     <application
         android:icon="@mipmap/ic_launcher"
-        android:label="𝗭𝗢𝗢𝗙𝗟𝗜𝗟𝗜𝗔🔥❌❌❌❤️"
+        android:label="monkeybypasserv1"
         android:requestLegacyExternalStorage="true"
         android:usesCleartextTraffic="true"
         tools:ignore="Instantiatable">
