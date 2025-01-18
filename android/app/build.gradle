@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xshashi_pharma_distributory12601"
+        applicationId "com.appcollection.xzak_psycho_panel_12604"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
