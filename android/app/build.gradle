@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmanga_updates13241"
+        applicationId "com.appcollection.xmanga_updates13244"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
