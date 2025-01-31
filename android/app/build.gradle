@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcodeschool13316"
+        applicationId "com.appcollection.xlam_trade13317"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
