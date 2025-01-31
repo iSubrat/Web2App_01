@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xfit_to_work13264"
+        applicationId "com.appcollection.xtineye13267"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
