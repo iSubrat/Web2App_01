@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcross_talk_blog13367"
+        applicationId "com.appcollection.xpulse_moflix13371"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
