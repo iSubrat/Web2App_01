@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xproxyhd_shop13324"
+        applicationId "com.appcollection.xpanel_private13326"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
