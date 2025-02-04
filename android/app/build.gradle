@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xhabbin13493"
+        applicationId "com.appcollection.xlife_partnerpk_13495"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
