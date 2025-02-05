@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xamk_tic_tac_toe_game_13507"
+        applicationId "com.appcollection.xriffusion13519"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
