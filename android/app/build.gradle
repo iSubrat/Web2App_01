@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xscience_quiz13737"
+        applicationId "com.appcollection.xland_measurement_13739"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
