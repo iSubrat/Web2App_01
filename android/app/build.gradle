@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xland_measurement_13739"
+        applicationId "com.appcollection.xdeadshot_io13748"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
