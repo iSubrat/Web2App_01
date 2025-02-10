@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xgreenstep13817"
+        applicationId "com.appcollection.x_13825"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
