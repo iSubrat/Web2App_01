@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsafwe13875"
+        applicationId "com.appcollection.xmapa_mundial_viajes13886"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
