@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.x_13944"
+        applicationId "com.appcollection.xpos_endora13947"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
