@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xproducts_online_buy_now14032"
+        applicationId "com.appcollection.xsbakey14035"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
