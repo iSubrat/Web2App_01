@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xkalkulator_rasio14100"
+        applicationId "com.appcollection.xmgbs14103"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
