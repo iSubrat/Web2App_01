@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xboom_calculator_14062"
+        applicationId "com.appcollection.xyoutube_kids14065"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
