@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpornhoarder14238"
+        applicationId "com.appcollection.xasamurat14240"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
