@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xstudyfoo14248"
+        applicationId "com.appcollection.xtop_ludo14251"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
