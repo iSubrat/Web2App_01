@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xkrsna14323"
+        applicationId "com.appcollection.xcr_brandz14325"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
