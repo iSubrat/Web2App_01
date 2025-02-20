@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpw14363"
+        applicationId "com.appcollection.xankit_lace_maker14365"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
