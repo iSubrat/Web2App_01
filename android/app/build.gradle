@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpaypal_14462"
+        applicationId "com.appcollection.xa2z_apk14467"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
