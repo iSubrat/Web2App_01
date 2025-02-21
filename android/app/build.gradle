@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xwatzo14448"
+        applicationId "com.appcollection.xvision_papers14450"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
