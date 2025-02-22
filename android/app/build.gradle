@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xchatgpt14488"
+        applicationId "com.appcollection.xqu_n_l_m_t_kh_u14490"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
