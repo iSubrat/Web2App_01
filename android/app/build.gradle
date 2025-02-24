@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbihar_micro_cut14652"
+        applicationId "com.appcollection.xcalculator_14655"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
