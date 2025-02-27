@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xappcmus_14798"
+        applicationId "com.appcollection.xdarvesh_panel14803"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
