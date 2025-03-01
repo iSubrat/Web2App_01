@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xwhack_it14963"
+        applicationId "com.appcollection.xmedicare14966"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
