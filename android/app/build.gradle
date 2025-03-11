@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xabg_mobile15327"
+        applicationId "com.appcollection.xarchavelianime15329"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
