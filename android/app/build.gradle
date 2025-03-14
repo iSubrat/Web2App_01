@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xalpha_erp15570"
+        applicationId "com.appcollection.xpenuntut_ilmu15573"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
