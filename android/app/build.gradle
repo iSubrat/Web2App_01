@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xvel_calculater15561"
+        applicationId "com.appcollection.xalpha_erp15570"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
