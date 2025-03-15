@@ -26,7 +26,7 @@
 
     <application
         android:icon="@mipmap/ic_launcher"
-        android:label="Square history game"
+        android:label="https://kinodivbox.netlify.app/?q=%D0%B0%D0%B2%D0%"
         android:requestLegacyExternalStorage="true"
         android:usesCleartextTraffic="true"
         tools:ignore="Instantiatable">
