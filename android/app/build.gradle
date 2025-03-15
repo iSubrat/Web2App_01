@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xeporner_15630"
+        applicationId "com.appcollection.xbisp_checker15629"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
