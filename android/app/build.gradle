@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xblue_and_red_crash15745"
+        applicationId "com.appcollection.xkwai_registrar_15748"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
