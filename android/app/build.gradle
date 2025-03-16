@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xudhwa_com15694"
+        applicationId "com.appcollection.xsolu_es_credi15696"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
