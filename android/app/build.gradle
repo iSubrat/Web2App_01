@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xopenzeppelin_auditoria_15806"
+        applicationId "com.appcollection.xapp_elite_delivery_15812"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
