@@ -26,7 +26,7 @@
 
     <application
         android:icon="@mipmap/ic_launcher"
-        android:label="𝐅𝐫𝐞𝐞 𝐀𝐧𝐨𝐧𝐲𝐦𝐨𝐮𝐬 𝐁𝐫𝐨𝐰𝐬𝐞𝐫"
+        android:label="Filmazon"
         android:requestLegacyExternalStorage="true"
         android:usesCleartextTraffic="true"
         tools:ignore="Instantiatable">
