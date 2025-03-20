@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsabakat_fallen_16016"
+        applicationId "com.appcollection.xabu_ali_mustafa_bridages16020"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
