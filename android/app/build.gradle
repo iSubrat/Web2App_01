@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcandy_crush_16079"
+        applicationId "com.appcollection.xtic_tac_mikun_16081"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
