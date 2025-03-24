@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsnake_neon_16276"
+        applicationId "com.appcollection.xjule_s_trade_16278"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
