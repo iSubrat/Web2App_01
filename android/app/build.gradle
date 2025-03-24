@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xatapku16308"
+        applicationId "com.appcollection.xprayer_times16312"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
