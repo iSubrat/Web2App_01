@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xkormosprojectbeta16336"
+        applicationId "com.appcollection.xcrypto_easy_moneys16344"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
