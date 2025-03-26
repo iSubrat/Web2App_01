@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcheckmate16386"
+        applicationId "com.appcollection.xlove_and_vice16388"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
