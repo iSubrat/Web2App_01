@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xiliketurquoise16608"
+        applicationId "com.appcollection.xfarshaxan_tube_official_16610"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
