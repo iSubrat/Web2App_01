@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcanto16597"
+        applicationId "com.appcollection.xcg_topup16606"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
