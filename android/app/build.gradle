@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xnaruto_watch16699"
+        applicationId "com.appcollection.xlive_tv16703"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
