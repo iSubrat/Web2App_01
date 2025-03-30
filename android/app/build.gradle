@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmundo_donghua_16685"
+        applicationId "com.appcollection.xshiparalok_online_lucky_draw16691"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
