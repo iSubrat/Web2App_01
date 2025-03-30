@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmistress_rss_feed_reader16662"
+        applicationId "com.appcollection.xzapped16666"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
