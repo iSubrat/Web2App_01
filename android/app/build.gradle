@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsiddhant_runner16670"
+        applicationId "com.appcollection.xconvert16672"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
