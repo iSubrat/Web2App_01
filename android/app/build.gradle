@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xyunus16866"
+        applicationId "com.appcollection.xleonardo2_16868"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
