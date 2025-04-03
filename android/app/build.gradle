@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xquran_with_u_16930"
+        applicationId "com.appcollection.xcaisse_16934"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
