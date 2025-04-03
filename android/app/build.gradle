@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xshikimori_webapp16987"
+        applicationId "com.appcollection.x52_you16992"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
