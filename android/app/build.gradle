@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xdino_hunt17013"
+        applicationId "com.appcollection.xnishant_ai_beta_17016"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
