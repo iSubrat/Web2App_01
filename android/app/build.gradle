@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xask_soulan17175"
+        applicationId "com.appcollection.xmemoistan_17177"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
