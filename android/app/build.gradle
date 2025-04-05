@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xflixbaba17158"
+        applicationId "com.appcollection.xpoku_games17160"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
