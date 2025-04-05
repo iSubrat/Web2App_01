@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xdream_labs17133"
+        applicationId "com.appcollection.xfranciscoalves191651_gmail_com17136"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
