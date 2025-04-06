@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xspace_shooter_17197"
+        applicationId "com.appcollection.xmp3_player_offline17199"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
