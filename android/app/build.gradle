@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbitrix17241"
+        applicationId "com.appcollection.xfranciscoalves191651_gmail_com_tvaovivo17249"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
