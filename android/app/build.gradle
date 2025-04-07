@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xredtube17315"
+        applicationId "com.appcollection.xwindow_17320"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
