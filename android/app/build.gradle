@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xwindow_17320"
+        applicationId "com.appcollection.xmeu_app17322"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
