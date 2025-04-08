@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xkool17333"
+        applicationId "com.appcollection.xnettoyage_propre_17337"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
