@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xappmeutreino17401"
+        applicationId "com.appcollection.xvijay_tv17410"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
