@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xelectro17484"
+        applicationId "com.appcollection.xdoce_tradi_o17486"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
