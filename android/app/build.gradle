@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.x1xbet_ctg17538"
+        applicationId "com.appcollection.xwaptik17542"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
