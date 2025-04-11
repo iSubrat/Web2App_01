@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xclick_game17583"
+        applicationId "com.appcollection.xvilofilms_17586"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
