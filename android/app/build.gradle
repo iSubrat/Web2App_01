@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtv17618"
+        applicationId "com.appcollection.xagromind17630"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
