@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xlink_saver_17747"
+        applicationId "com.appcollection.xradiogvg17752"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
