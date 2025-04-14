@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xa_s_puzzle_17822"
+        applicationId "com.appcollection.xkbi_portal17826"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
