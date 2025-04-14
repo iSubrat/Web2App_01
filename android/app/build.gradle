@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xlink_y_u_ti_n17768"
+        applicationId "com.appcollection.xdetective_conan_17772"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
