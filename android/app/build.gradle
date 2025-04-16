@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xai_omega17956"
+        applicationId "com.appcollection.xgemini_chat_and_share_17960"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
