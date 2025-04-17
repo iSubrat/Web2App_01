@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xkorgar_company18028"
+        applicationId "com.appcollection.xkorgar18031"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
