@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xwallpaper_pro_17986"
+        applicationId "com.appcollection.xgestor_aqu_rio17988"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
