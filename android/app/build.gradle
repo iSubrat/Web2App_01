@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xai_porn_picture_18070"
+        applicationId "com.appcollection.x5play_ru18072"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
