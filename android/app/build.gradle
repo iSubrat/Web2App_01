@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtiktok_service_18193"
+        applicationId "com.appcollection.xyoutube18196"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
