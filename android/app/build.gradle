@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xspark18237"
+        applicationId "com.appcollection.xlua_scripts18242"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
