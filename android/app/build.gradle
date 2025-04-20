@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xfreeup18213"
+        applicationId "com.appcollection.xanot_and_of_video_18216"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
