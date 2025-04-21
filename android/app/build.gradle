@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xoromia_2118310"
+        applicationId "com.appcollection.xtv_cabo_branco_pb_18316"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
