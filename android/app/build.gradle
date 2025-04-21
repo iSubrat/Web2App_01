@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xapp_mensajeros18328"
+        applicationId "com.appcollection.xrafik_affichages_18334"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
