@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xletra_finder_18377"
+        applicationId "com.appcollection.x_spend_elon_musk_18380"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
