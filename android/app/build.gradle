@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbelbi18400"
+        applicationId "com.appcollection.xiliketurquoise_18405"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
