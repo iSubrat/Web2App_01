@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.x_n_v_o_i18520"
+        applicationId "com.appcollection.xnotavirus18523"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
