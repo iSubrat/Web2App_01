@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xlil_wolfy_bday_present18621"
+        applicationId "com.appcollection.xsalesdrive2418626"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
