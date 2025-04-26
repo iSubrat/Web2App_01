@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtung_tung_cloud_18628"
+        applicationId "com.appcollection.xpuffpuffscape18632"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
