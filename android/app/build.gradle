@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xdemo_18642"
+        applicationId "com.appcollection.xpuzzle_master18644"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
