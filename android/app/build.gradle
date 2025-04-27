@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xphica_eu18732"
+        applicationId "com.appcollection.xphoto_to_link_auto18734"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
