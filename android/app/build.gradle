@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmuscify18724"
+        applicationId "com.appcollection.xipc_member_community18728"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
