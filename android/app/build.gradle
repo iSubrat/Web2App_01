@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xspa_demo18819"
+        applicationId "com.appcollection.xearth_wild_prototype_18822"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
