@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xkalkulator_tugas_informatika19266"
+        applicationId "com.appcollection.xlife_organiser_19273"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
