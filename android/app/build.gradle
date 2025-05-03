@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpoe19275"
+        applicationId "com.appcollection.xgoldenwavescalperea19278"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
