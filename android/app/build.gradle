@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xland_unit_converter_19371"
+        applicationId "com.appcollection.xbypasser_exe6919375"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
