@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xthuraindropapp19334"
+        applicationId "com.appcollection.xspin_to_win19336"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
