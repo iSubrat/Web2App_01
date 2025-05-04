@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmku_mbchb19361"
+        applicationId "com.appcollection.xthuraindropbomb19363"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
