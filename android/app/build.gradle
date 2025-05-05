@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcolour_sort_3d_202519455"
+        applicationId "com.appcollection.x_19459"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
