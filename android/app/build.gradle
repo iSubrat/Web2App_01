@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xacca_fee_manager19489"
+        applicationId "com.appcollection.xsistema_avanzado_de_an_lisis_de_listas19493"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
