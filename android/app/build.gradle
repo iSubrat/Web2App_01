@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xraaki_talkie19518"
+        applicationId "com.appcollection.xdodhwa_saap19530"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
