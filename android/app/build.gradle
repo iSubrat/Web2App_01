@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xzamin19544"
+        applicationId "com.appcollection.xsprunki_wenda_interactive_19547"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
