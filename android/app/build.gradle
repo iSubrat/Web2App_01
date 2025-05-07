@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xchicken_and_touchdowns_119624"
+        applicationId "com.appcollection.xpatrslink19626"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
