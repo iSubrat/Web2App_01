@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xslot8819642"
+        applicationId "com.appcollection.xiq_sport19644"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
