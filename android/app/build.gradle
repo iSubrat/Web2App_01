@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xgro_deutsches_reich19599"
+        applicationId "com.appcollection.xbsm_service_center19603"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
