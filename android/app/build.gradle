@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmart19732"
+        applicationId "com.appcollection.xfams_jutt_19734"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
