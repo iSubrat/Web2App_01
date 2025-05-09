@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpostos_rms19822"
+        applicationId "com.appcollection.xjogo_velha_19825"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
