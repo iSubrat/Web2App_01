@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xascension_q_19912"
+        applicationId "com.appcollection.xweather_garnerville_cc_r19916"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
