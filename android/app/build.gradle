@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xayano_tic_20077"
+        applicationId "com.appcollection.xmobywatel20079"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
