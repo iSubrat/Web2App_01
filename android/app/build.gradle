@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.x_20081"
+        applicationId "com.appcollection.xfocusflow20084"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
