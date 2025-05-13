@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbot_shop_v1_20113"
+        applicationId "com.appcollection.xwells_fargo_20115"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
