@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xxo_game20147"
+        applicationId "com.appcollection.xdictionnaire_fran_ais_lengola20154"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
