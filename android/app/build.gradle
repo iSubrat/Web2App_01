@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xdurgesh20166"
+        applicationId "com.appcollection.xplayvids20170"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
