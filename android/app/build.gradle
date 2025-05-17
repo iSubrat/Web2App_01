@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xinput_data_mahasiswa20390"
+        applicationId "com.appcollection.xanas20394"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
