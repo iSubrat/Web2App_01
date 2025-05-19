@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xexode20544"
+        applicationId "com.appcollection.xgrafana20550"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
