@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xomcs_obour_ph20617"
+        applicationId "com.appcollection.xsv_io20619"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
