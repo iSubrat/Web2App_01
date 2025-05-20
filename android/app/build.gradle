@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xwakefit20596"
+        applicationId "com.appcollection.xnoor20598"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
