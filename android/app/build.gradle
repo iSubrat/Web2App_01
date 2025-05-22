@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmohamed_ehab20744"
+        applicationId "com.appcollection.xali_raza_hosting_20746"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
