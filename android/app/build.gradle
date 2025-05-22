@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xali_raza_hosting_20746"
+        applicationId "com.appcollection.xrap2riches_20749"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
