@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpanel_uciha20736"
+        applicationId "com.appcollection.x_20739"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
