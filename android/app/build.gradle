@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtetris_riv20783"
+        applicationId "com.appcollection.xspp_ahe_kaliwungu20785"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
