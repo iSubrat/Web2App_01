@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xrs_iit_jee_hub_2nd20857"
+        applicationId "com.appcollection.xpvrouteur20860"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
