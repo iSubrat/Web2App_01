@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xproxy_server_20903"
+        applicationId "com.appcollection.xmatatu20907"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
