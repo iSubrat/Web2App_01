@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtaktik20919"
+        applicationId "com.appcollection.xpro_timer_20925"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
