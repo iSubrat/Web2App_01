@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xampeire_20917"
+        applicationId "com.appcollection.xtaktik20919"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
