@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xafghanistan_hotel_21015"
+        applicationId "com.appcollection.xjackson_ai21017"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
