@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.x_21047"
+        applicationId "com.appcollection.xre_zero_fan_app21049"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
