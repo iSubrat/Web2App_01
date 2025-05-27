@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xhanif_gaming_21232"
+        applicationId "com.appcollection.xflat_icon21235"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
