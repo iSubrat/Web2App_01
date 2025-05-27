@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbill21189"
+        applicationId "com.appcollection.xnossa_jovem21192"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
