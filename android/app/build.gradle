@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xfreepik21225"
+        applicationId "com.appcollection.xscas_ticketing_system21227"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
