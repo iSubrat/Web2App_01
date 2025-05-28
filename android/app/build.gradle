@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xgogo21342"
+        applicationId "com.appcollection.xcek_stok_masala_v_921344"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
