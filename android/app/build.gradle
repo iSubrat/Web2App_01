@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsalat_elegance_21281"
+        applicationId "com.appcollection.xabroaday21283"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
