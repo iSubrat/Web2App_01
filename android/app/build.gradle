@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xadmin_panel_21431"
+        applicationId "com.appcollection.xpembukuan21435"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
