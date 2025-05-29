@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xfikxzmodss_panel21370"
+        applicationId "com.appcollection.xcalculator_21373"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
