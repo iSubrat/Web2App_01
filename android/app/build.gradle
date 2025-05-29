@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xuniverse_sandbox_2d_play_and_creative21414"
+        applicationId "com.appcollection.xy2player21416"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
