@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xroblox_do_calebe_beta_21496"
+        applicationId "com.appcollection.xrodex21507"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
