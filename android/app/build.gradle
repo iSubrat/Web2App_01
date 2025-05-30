@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcrickestar_21517"
+        applicationId "com.appcollection.xinstaclone21519"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
