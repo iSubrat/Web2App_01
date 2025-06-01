@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xpadasalai21656"
+        applicationId "com.appcollection.xcuring21658"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
