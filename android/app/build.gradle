@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xendless_ai21652"
+        applicationId "com.appcollection.xpadasalai21656"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
