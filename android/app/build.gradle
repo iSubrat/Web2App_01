@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xwi_fi_free_add_data_21750"
+        applicationId "com.appcollection.xsnake_game_2_121754"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
