@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xstreamvault21811"
+        applicationId "com.appcollection.xvs_store_21815"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
