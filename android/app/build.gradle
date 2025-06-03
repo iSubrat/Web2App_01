@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xthe_shawarma21873"
+        applicationId "com.appcollection.xjw_org21875"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
