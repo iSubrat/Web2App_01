@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xfaizullah_arifzoy22034"
+        applicationId "com.appcollection.xprintables22041"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
