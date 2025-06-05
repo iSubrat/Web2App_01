@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xal_zahraa_patisserie22059"
+        applicationId "com.appcollection.xsnake_game_22062"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
