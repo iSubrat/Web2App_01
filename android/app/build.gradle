@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsouth_indian_hub_bundi_22110"
+        applicationId "com.appcollection.xpharma_manager_22116"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
