@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xall_in_one22107"
+        applicationId "com.appcollection.xsouth_indian_hub_bundi_22110"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
