@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtournament_bd22154"
+        applicationId "com.appcollection.xadic28os_portable22158"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
