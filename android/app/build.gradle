@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbootstrap22204"
+        applicationId "com.appcollection.xnazopay22206"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
