@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xai_gpt22212"
+        applicationId "com.appcollection.xcalculator22216"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
