@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xlivro_e_exames_moz_22247"
+        applicationId "com.appcollection.x_22250"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
