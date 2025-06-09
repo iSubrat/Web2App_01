@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xviva_cite_22362"
+        applicationId "com.appcollection.xviva_site22369"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
