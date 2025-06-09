@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xnexkirana_go_t122468"
+        applicationId "com.appcollection.xmhande_music_generator_22470"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
