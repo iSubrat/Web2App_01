@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xi_love_smoke22462"
+        applicationId "com.appcollection.x24_465_juegos_onlline_22466"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
