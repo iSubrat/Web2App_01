@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xlucky22543"
+        applicationId "com.appcollection.xst_gregs_portal22545"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
