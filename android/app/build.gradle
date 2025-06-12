@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xzee_bangla22703"
+        applicationId "com.appcollection.xdushyant_cricket_league22706"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
