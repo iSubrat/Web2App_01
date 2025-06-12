@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xescort_directory22762"
+        applicationId "com.appcollection.xbdinventershell22765"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
