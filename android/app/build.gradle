@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsnap4_vid_pro22870"
+        applicationId "com.appcollection.xrockauto22874"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
