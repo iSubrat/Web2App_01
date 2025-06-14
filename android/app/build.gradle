@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.x3q_vtd22942"
+        applicationId "com.appcollection.xapk_web_p_wann_host22944"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
