@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xheadrtricker_23135"
+        applicationId "com.appcollection.xheadtricker23134"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
