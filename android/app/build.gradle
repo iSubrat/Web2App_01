@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xdzagame_online_store23212"
+        applicationId "com.appcollection.xget_student_courses_aplicativo_de_estudante_e_pro23217"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
