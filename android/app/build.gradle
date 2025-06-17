@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbeopopust_supercena23268"
+        applicationId "com.appcollection.xinheritance23271"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
