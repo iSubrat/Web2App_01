@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xrotten_tomatoes_movies_23385"
+        applicationId "com.appcollection.xsheraton_hotel_kampala_23388"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
