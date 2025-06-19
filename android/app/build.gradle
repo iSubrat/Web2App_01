@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xgallerie_sion_butembo_23495"
+        applicationId "com.appcollection.xdelhivary_app23497"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
