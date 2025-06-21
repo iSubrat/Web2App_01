@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbiblia_tube_kids_23732"
+        applicationId "com.appcollection.xtestself23736"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
