@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xb_ssola_3_023698"
+        applicationId "com.appcollection.xnaruto_arena23700"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
