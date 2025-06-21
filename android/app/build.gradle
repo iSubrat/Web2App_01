@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xgm_survey_team_v_1_023744"
+        applicationId "com.appcollection.xgm_survey_team_v2_023746"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
