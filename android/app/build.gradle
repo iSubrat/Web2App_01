@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xdraw_and_guesss23666"
+        applicationId "com.appcollection.xchannel_kenzo_link_id23670"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
