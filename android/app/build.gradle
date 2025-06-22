@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xdzagame_online_store23773"
+        applicationId "com.appcollection.xwho_is_the_deactive_23775"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
