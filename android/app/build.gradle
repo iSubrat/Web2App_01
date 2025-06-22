@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xvariable_and_prime_number_checker23848"
+        applicationId "com.appcollection.x_23850"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
