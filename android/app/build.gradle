@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xnidaan_attendance23781"
+        applicationId "com.appcollection.xaksh_s_chat_23785"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
