@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtossy_catering_accessories_23872"
+        applicationId "com.appcollection.xmyfit_fitness_tracker_23874"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
