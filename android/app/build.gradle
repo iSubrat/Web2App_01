@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xneishsir_vidhyapeeth_23902"
+        applicationId "com.appcollection.xdiastore23905"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
