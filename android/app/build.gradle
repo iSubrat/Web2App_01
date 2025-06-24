@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xkalkulator_tokopedia23998"
+        applicationId "com.appcollection.xrule_3424000"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
