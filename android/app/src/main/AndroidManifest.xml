@@ -26,7 +26,7 @@
 
     <application
         android:icon="@mipmap/ic_launcher"
-        android:label="Saveen tag"
+        android:label="Yash texfab "
         android:requestLegacyExternalStorage="true"
         android:usesCleartextTraffic="true"
         tools:ignore="Instantiatable">
