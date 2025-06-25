@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsbe_stock24060"
+        applicationId "com.appcollection.xvideo_photo_ai_maker_24061"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
