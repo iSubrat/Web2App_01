@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xroblox_hacks_list24067"
+        applicationId "com.appcollection.xnex24071"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
