@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmcserverhost24123"
+        applicationId "com.appcollection.xgoogle_24125"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
