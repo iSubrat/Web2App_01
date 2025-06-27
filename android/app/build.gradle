@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xcelebhub_id_verification_24210"
+        applicationId "com.appcollection.xchrome24213"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
