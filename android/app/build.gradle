@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xtry_family24198"
+        applicationId "com.appcollection.xfake_shopping_prank24205"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
