@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbymadata24369"
+        applicationId "com.appcollection.xla_pantera_rosa_y_el_diamante24372"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
