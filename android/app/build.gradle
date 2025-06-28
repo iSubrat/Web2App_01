@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xhack_chat_r124348"
+        applicationId "com.appcollection.xshiv_mudra_travels_24350"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
