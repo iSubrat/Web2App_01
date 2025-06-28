@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xquiz_india24320"
+        applicationId "com.appcollection.xzk_module24324"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
