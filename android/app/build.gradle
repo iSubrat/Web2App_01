@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xadmin_monitoring24387"
+        applicationId "com.appcollection.xadmin_new_game_home24390"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
