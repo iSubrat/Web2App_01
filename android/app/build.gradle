@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xdot_gam24408"
+        applicationId "com.appcollection.xb_blia_harpa_crist_24411"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
