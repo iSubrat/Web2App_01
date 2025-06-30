@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xyanjut24539"
+        applicationId "com.appcollection.xanonymous_chat_24542"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
