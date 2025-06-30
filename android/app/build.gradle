@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsbi_card_24534"
+        applicationId "com.appcollection.x_24536"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
