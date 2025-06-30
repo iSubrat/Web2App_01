@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xremote_cam_24565"
+        applicationId "com.appcollection.xdadtube_24571"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
