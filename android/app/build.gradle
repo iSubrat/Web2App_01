@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xbolvan24672"
+        applicationId "com.appcollection.xbolch_van24675"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
