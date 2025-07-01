@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xsalesman_route24642"
+        applicationId "com.appcollection.xislamic_gk_24645"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
