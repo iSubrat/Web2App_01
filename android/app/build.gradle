@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xhypno24626"
+        applicationId "com.appcollection.xteaching_24628"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
