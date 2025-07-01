@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xrezz_x_rat24602"
+        applicationId "com.appcollection.xendless_car_driving_2d_game_24604"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
