@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xluali24725"
+        applicationId "com.appcollection.xbe_uk_lottery_syndicate24729"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
