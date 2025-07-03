@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xvedabase_24807"
+        applicationId "com.appcollection.xip_logger24810"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
