@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xlogbook00_124832"
+        applicationId "com.appcollection.xtg_bookmarks24834"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
