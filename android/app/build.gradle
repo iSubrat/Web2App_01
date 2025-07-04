@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xiss_client_portal24921"
+        applicationId "com.appcollection.xapple_id24923"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
