@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xai_voice_over24915"
+        applicationId "com.appcollection.xaksab24917"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
