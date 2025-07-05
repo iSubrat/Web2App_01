@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xiospack24974"
+        applicationId "com.appcollection.xkukufm_support_24977"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
