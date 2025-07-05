@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xrefer_ndum_global_24984"
+        applicationId "com.appcollection.xdesign_with_ronak_24986"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
