@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xgrowth_with_success_25054"
+        applicationId "com.appcollection.xpoop25059"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
