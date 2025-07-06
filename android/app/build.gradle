@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xali_zeinhom_25102"
+        applicationId "com.appcollection.x_spi_dey_25107"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
