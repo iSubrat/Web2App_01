@@ -26,7 +26,7 @@
 
     <application
         android:icon="@mipmap/ic_launcher"
-        android:label="Wattpad To Epub "
+        android:label="My Twin Cute Twin"
         android:requestLegacyExternalStorage="true"
         android:usesCleartextTraffic="true"
         tools:ignore="Instantiatable">
