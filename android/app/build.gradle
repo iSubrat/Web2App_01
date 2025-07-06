@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmy_twin_cute_twin25082"
+        applicationId "com.appcollection.xworktime25086"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
