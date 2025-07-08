@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmy_studio25245"
+        applicationId "com.appcollection.xmy_tool_town25248"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
