@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xodisseia25281"
+        applicationId "com.appcollection.xv_nh_long_qu_tui_25291"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
