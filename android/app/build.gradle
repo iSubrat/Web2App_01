@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xspiderstresser_v325356"
+        applicationId "com.appcollection.xawgp25363"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
