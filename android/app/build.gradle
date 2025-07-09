@@ -25,7 +25,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.appcollection.xmoontv25304"
+        applicationId "com.appcollection.xberry_jpm25309"
         minSdkVersion 22
         targetSdkVersion 34
         versionCode 1
